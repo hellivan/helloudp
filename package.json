@@ -1,0 +1,11 @@
+{
+  "name": "mssqlTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "mssql": "^3.3.0"
+  }
+}
